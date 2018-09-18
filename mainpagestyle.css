@@ -3,8 +3,8 @@ body {
 	font-size: 20px;
 	font-weight: normal;
 	font-style: normal;
-	background-color: #009999;
-	color: black;
+	background-color: #004d4d;
+	color: white;
 	line-height: normal;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -32,8 +32,14 @@ h4 {
 	font-style: italic;
 }
 
-h5 {
-	font-size: 20px;
-	font-weight: normal;
-	font-style: italic;
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: #00cccc;
+}
+
+img {
+	border-style: double;
 }

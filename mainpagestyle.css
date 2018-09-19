@@ -1,5 +1,5 @@
 body {
-	font-family: Georgia;
+	font-family: Bookman;
 	font-size: 20px;
 	font-weight: normal;
 	font-style: normal;
@@ -8,8 +8,6 @@ body {
 	line-height: normal;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	margin-left: 150px;
-	margin-right: 150px;
 	text-align: center;
 }
 h1 {
@@ -40,6 +38,12 @@ a:visited {
 	color: #00cccc;
 }
 
+a:hover {
+	color: black;
+}
+
 img {
 	border-style: double;
+	width: 720px;
+	height: 480px;
 }

@@ -1,23 +1,24 @@
 body {
 	font-family: Bookman;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	background-color: #009999;
 	color: black;
 	line-height: normal;
-	margin-top: 0px;
-	margin-bottom: 0px;
 	margin-left: 50px;
 	margin-right: 50px;
 	text-align: center;
 }
 h1 {
 	font-size: 48px;
+
 }
 h2 {
 	font-weight: normal;
 	font-size: 30px;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 h3 {
 	border-style: double;
@@ -29,12 +30,16 @@ h3 {
 h4 {
 	font-size: 20px;
 	font-weight: bold;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 
 h5 {
 	font-size: 20px;
 	font-weight: normal;
 	font-style: italic;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 a:link {
 	color: white;

@@ -6,8 +6,6 @@ body {
 	background-color: #004d4d;
 	color: white;
 	line-height: normal;
-	margin-top: 0px;
-	margin-bottom: 0px;
 	text-align: center;
 }
 h1 {
@@ -15,13 +13,13 @@ h1 {
 }
 h2 {
 	font-weight: normal;
-	font-size: 30px;
+	font-size: 28px;
 }
 h3 {
 	border-style: double;
 	background-color: #004d4d;
 	color: white;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: bold;
 }
 h4 {

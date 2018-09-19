@@ -6,8 +6,8 @@ body {
 	background-color: #009999;
 	color: black;
 	line-height: normal;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 150px;
+	margin-right: 150px;
 	text-align: center;
 }
 h1 {
@@ -16,7 +16,7 @@ h1 {
 }
 h2 {
 	font-weight: normal;
-	font-size: 30px;
+	font-size: 28px;
 	margin-top: 0em;
 	margin-bottom: 0em;
 }
@@ -24,7 +24,7 @@ h3 {
 	border-style: double;
 	background-color: #004d4d;
 	color: white;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: bold;
 }
 h4 {

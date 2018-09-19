@@ -12,7 +12,6 @@ body {
 }
 h1 {
 	font-size: 48px;
-
 }
 h2 {
 	font-weight: normal;
@@ -40,6 +39,9 @@ h5 {
 	font-style: italic;
 	margin-top: 0em;
 	margin-bottom: 0em;
+}
+ul {
+	text-align: left;
 }
 a:link {
 	color: white;
